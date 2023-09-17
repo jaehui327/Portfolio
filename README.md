@@ -4,7 +4,7 @@
 
 (💬 링크 및 페이지 이동은 PDF에서만 동작합니다)
 
-<h3 align="center"><a href="https://drive.google.com/file/d/1WFF84V2QWkUnYsVEiN92PKD9Tdzgz6pr/view?usp=sharing">👉 PDF 다운로드 링크 👈</a></h3>
+<h3 align="center"><a href="https://drive.google.com/file/d/1WFF85V2QWkUnYsVEiN92PKD9Tdzgz6pr/view?usp=sharing">👉 PDF 다운로드 링크 👈</a></h3>
 
 <div align="center">
 <img src="./img/1.jpg" width="800"> <img src="./img/2.jpg" width="800">
